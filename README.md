@@ -1,2 +1,4 @@
 # shadowsocks-archive
-archive of shadowsocks as of 2015-08-22
+The original shadowsocks repository has been 'removed according to regulations'(!)
+
+I have archived all of the active shadowsocks projects (I think) and placed them here.
